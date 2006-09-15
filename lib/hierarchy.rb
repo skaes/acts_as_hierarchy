@@ -41,7 +41,7 @@ module RailsExpress
           end
 
           class_eval <<-EOV
-            include AS24::Acts::Hierarchy::InstanceMethods
+            include RailsExpress::Acts::Hierarchy::InstanceMethods
 
             #{scope_condition_method}
 
