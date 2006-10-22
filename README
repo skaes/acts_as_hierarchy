@@ -1,0 +1,14 @@
+== acts as hierarchy
+
+This plugin is a replacement for acts_as_nested_set which comes
+prepackaged with Rails.
+
+I based the development on the acts_as_threaded plugin, which can be found here:
+http://www.railtie.net/articles/2006/02/05/rails-acts_as_threaded-plugin
+
+However, numerous changes and additions to the original code have been
+made.
+
+The development was done during a consulting engagement at AutoScout24
+Germany (www.autoscout24.de). AutoScout24 has kindly permitted me to
+release this code under an Open Source License.
